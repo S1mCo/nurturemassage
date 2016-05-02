@@ -134,6 +134,10 @@
 		letter-spacing: 0.2em;
 		text-transform: uppercase;
 	}
+	
+	p{
+		text-transform: none;
+	}
 
 		@media screen and (max-width: 1680px) {
 
@@ -523,7 +527,7 @@
 					width: 3.75em;
 					height: 3.75em;
 					border-radius: 100%;
-					border: solid 1px #c8cccf;
+					border: solid 1px #313f47;
 					line-height: 3.75em;
 					overflow: hidden;
 					text-align: center;
@@ -542,7 +546,7 @@
 
 					ul.icons li a:before {
 						color: #ffffff;
-						text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
+						text-shadow: 1.25px 0px 0px #313f47, -1.25px 0px 0px #313f47, 0px 1.25px 0px #313f47, 0px -1.25px 0px #313f47;
 					}
 
 					ul.icons li a:hover:before {
