@@ -135,7 +135,7 @@
 		text-transform: uppercase;
 	}
 	
-	p{
+	p, a {
 		text-transform: none;
 	}
 
@@ -484,7 +484,7 @@
 		}
 
 	ul {
-		list-style: disc;
+		list-style: none;
 		margin: 0 0 1.5em 0;
 		padding-left: 1em;
 	}
